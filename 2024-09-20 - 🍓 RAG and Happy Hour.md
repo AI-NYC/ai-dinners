@@ -28,50 +28,50 @@ Link: https://lu.ma/xsmkp983
 
 **AI news and updates**
 
-- https://t.me/c/1915094366/1/2071 xAI Groq2 released Aug 15
-- LMSYS Chatbot Arena Leaderboard https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
-- [Apple Intelligence](https://www.apple.com/apple-intelligence/)
-- [OpenAI o1](https://openai.com/o1/)
-    - https://t.me/c/1915094366/383/2279 120 iq
-- [Microsoft taps Three Mile Island nuclear plant to power AI](https://nypost.com/2024/09/20/business/infamous-three-mile-island-is-back-and-microsoft-wants-its-nuclear-power-to-fuel-ai-ambitions/)
-- [California Makes AI illegal](https://techcrunch.com/category/artificial-intelligence/)
-- https://x.com/cspan/status/1836116631514419516 Elen Toner on AI safety
-- https://x.com/ilyasut/status/1831341857714119024 SSI Inc. raised $1B from NFDG, a16z
-- https://magic.dev/blog/100m-token-context-windows
-- https://x.com/lmsysorg/status/1836443278033719631 o1 is 100 points above claude 3.5 and gpt4o
-- https://jina.ai/news/jina-embeddings-v3-a-frontier-multilingual-embedding-model/
-- https://t.me/c/1915094366/383/2277 Stages of AI, OpenAI
+- xAI Groq2 released Aug 15 - [telegram](https://t.me/c/1915094366/1/2071)
+- LMSYS Chatbot Arena Leaderboard - [website](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+- Apple Intelligence - [website](https://www.apple.com/apple-intelligence/)
+- OpenAI o1 - [website](https://openai.com/o1/)
+    - 120 iq - [telegram](https://t.me/c/1915094366/383/2279)
+- Microsoft taps Three Mile Island nuclear plant to power AI - [article](https://nypost.com/2024/09/20/business/infamous-three-mile-island-is-back-and-microsoft-wants-its-nuclear-power-to-fuel-ai-ambitions/)
+- California Makes AI illegal - [article](https://techcrunch.com/category/artificial-intelligence/)
+- Elen Toner on AI safety - [tweet](https://x.com/cspan/status/1836116631514419516)
+- SSI Inc. raised $1B from NFDG, a16z - [tweet](https://x.com/ilyasut/status/1831341857714119024)
+- 100M Token Context Windows - [blog](https://magic.dev/blog/100m-token-context-windows)
+- o1 is 100 points above claude 3.5 and gpt4o - [tweet](https://x.com/lmsysorg/status/1836443278033719631)
+- Jina Embeddings v3: A Frontier Multilingual Embedding Model - [blog](https://jina.ai/news/jina-embeddings-v3-a-frontier-multilingual-embedding-model/)
+- Stages of AI, OpenAI - [telegram](https://t.me/c/1915094366/383/2277)
 
 **Papers**
 
-- https://x.com/jeffclune/status/1825551351746867502 Can AI agents design better AI agents?
-- RAG or long context? https://x.com/rohanpaul_ai/status/1827156106449158339?s=46
-- https://x.com/rohanpaul_ai/status/1834728874879455250?s=46 Let’s verify step by step
-- https://t.me/c/1915094366/378/2149 New sampling method that achieved 10-20% better results on gsm8k and gpqa
-- https://x.com/omarsar0/status/1836599280477299013?s=46 To CoT or not to CoT
-- https://x.com/yuntiandeng/status/1836114401213989366 is openai o1 a good calculator?
-    - https://t.me/c/1915094366/378/2316
-    - https://x.com/yuntiandeng/status/1814319104448467137
-    - https://t.me/c/1915094366/378/2182 Griffin > Mamba
+- Can AI agents design better AI agents? - [tweet](https://x.com/jeffclune/status/1825551351746867502)
+- RAG or long context? - [tweet](https://x.com/rohanpaul_ai/status/1827156106449158339?s=46)
+- Let's verify step by step - [tweet](https://x.com/rohanpaul_ai/status/1834728874879455250?s=46)
+- New sampling method that achieved 10-20% better results on gsm8k and gpqa - [telegram](https://t.me/c/1915094366/378/2149)
+- To CoT or not to CoT - [tweet](https://x.com/omarsar0/status/1836599280477299013?s=46)
+- Is OpenAI o1 a good calculator? - [tweet](https://x.com/yuntiandeng/status/1836114401213989366)
+    - [telegram](https://t.me/c/1915094366/378/2316)
+    - [tweet](https://x.com/yuntiandeng/status/1814319104448467137)
+    - Griffin > Mamba - [telegram](https://t.me/c/1915094366/378/2182)
 
 **Code**
 
-- https://github.com/codelion/optillm?tab=readme-ov-file#implemented-techniques
-- https://x.com/wgussml/status/1836451387124928870, *ell-a*i simpler langchain
-- https://t.me/c/1915094366/396/2278 Cursor rules
+- OptILM - [github](https://github.com/codelion/optillm?tab=readme-ov-file#implemented-techniques)
+- *ell-a*i simpler langchain - [tweet](https://x.com/wgussml/status/1836451387124928870)
+- Cursor rules - [telegram](https://t.me/c/1915094366/396/2278)
 
 **AI tools**
 
 - software
-    - https://voideditor.com/ IDE, open source cursor AI
-    - apify https://t.me/c/1915094366/396/2188 ← data ingestion
-    - [firecrawl.dev](https://www.firecrawl.dev/) web crawler
+    - Void Editor: IDE, open source cursor AI - [website](https://voideditor.com/)
+    - Apify - [telegram](https://t.me/c/1915094366/396/2188)
+    - Firecrawl: web crawler - [website](https://www.firecrawl.dev/)
 - hardware
-    - https://www.plaud.ai/
-    - https://humane.com/
-    - https://www.rabbit.tech/
-    - https://www.friend.com/
-    - [https://www.spectacles.com](https://www.spectacles.com/?lang=en-US)
+    - Plaud - [website](https://www.plaud.ai/)
+    - Humane - [website](https://humane.com/)
+    - Rabbit - [website](https://www.rabbit.tech/)
+    - Friend - [website](https://www.friend.com/)
+    - Spectacles - [website](https://www.spectacles.com/?lang=en-US)
     
 
 **8:30pm Closing Remarks**
