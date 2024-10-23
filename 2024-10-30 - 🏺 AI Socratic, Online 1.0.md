@@ -8,8 +8,8 @@ Link: https://lu.ma/ai-ny-online-1.0
 ## **Agenda**
 
 - 7:00 PM  Intro
-- 7:05 PM  AI socratic discussion
-- 8:00 PM  Closing
+- 7:10 PM  AI socratic discussion
+- 8:30 PM  Closing
 
 
 ## **AI Socratic Discussions**
