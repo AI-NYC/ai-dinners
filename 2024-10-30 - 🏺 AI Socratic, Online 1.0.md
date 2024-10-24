@@ -1,15 +1,13 @@
 # 🏺 AI Socratic, Online 1.0
 
-Where: Online/Zoom
-When: Wed, 30th October 2024
+Where: Twitter Spaces
+When: Tue, 29th October 2024
 Link: https://lu.ma/ai-ny-online-1.0
 
 
 ## **Agenda**
 
-- 7:00 PM  Intro
-- 7:10 PM  AI socratic discussion
-- 8:30 PM  Closing
+- 7:30 to 9 PM  Intro, AI socratic discussion
 
 
 ## **AI Socratic Discussions**
