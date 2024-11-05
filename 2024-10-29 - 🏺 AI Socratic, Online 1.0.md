@@ -1,6 +1,6 @@
 # 🏺 AI Socratic, Online 1.0
 
-**Where**: Twitter Spaces https://x.com/i/spaces/1OdKrXgVQXAJX
+**Where**: Google Meet (we'll share it after you join the lu.ma event)
 
 **When**: Tue, Nov 5th, 2024
 
