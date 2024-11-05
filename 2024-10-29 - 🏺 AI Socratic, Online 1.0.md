@@ -43,6 +43,10 @@
 - A Survey on Data Analysis and Augmentation for LLMs - [Paper](https://arxiv.org/pdf/2410.12896)
 - Beyond Browsing: API-Based Web Agents - [Paper](https://arxiv.org/abs/2410.16464)
 - Tons of Papers - [Tweet](https://x.com/TheAITimeline/status/1850237734381834447)
+- Project Sid: Many-agent simulation toward AI civilization - [Tweet](https://x.com/omarsar0/status/1853290196286021940), [Paper](https://github.com/altera-al/project-sid)
+- Multi-expert Prompting Improvements [Tweet](https://x.com/omarsar0/status/1853286452227899851), [Paper](https://arxiv.org/abs/2411.00492)
+- Lots of Papers on LLM Hallucinations [Tweet](https://x.com/omarsar0/status/1852733583036682710)
+- Multimodal RAG - discussions on how to best integrate multimodals into RAG for the industrial domain [Tweet](https://x.com/dair_ai/status/1853119468001534296)
 
 ### Code
 
@@ -59,9 +63,11 @@
 
 ### Apps and Tools
 
+- NotebookLM - [Link](https://notebooklm.google.com)
 - ChatGPT Canvas - [Link](https://openai.com/index/introducing-canvas/)
 - AI Voice Rolled Out to All Phone Apps - [Tweet](https://x.com/sama/status/1838864011321872407?26=)
 - Flux 1.1 Pro - [Website](https://t.me/c/1915094366/383/2453)
+
 
 ### Decentralized AI
 
