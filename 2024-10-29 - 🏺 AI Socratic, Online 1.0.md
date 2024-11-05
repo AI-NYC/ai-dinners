@@ -2,13 +2,10 @@
 
 **Where**: Google Meet (we'll share it after you join the lu.ma event)
 
-**When**: Tue, Nov 5th, 2024
+**When**: Tue, Nov 5th, 2024, at 12:00 PM EST
 
 **Link**: [https://lu.ma/ai-ny-online-1.0](https://lu.ma/ai-ny-online-1.0)
 
-## Agenda
-
-- **7:30 to 9:00 PM**: Intro, AI Socratic Discussion
 
 ## AI Socratic Discussions
 
