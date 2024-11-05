@@ -4,7 +4,7 @@
 
 **When**: Tue, Nov 5th, 2024
 
-**Link**: [https://lu.ma/ai-ny-online-1.0](https://lu.ma/ai-ny-online-1.0), ​https://x.com/feulf/status/1849501948908613875
+**Link**: [https://lu.ma/ai-ny-online-1.0](https://lu.ma/ai-ny-online-1.0)
 
 ## Agenda
 
